@@ -16,7 +16,7 @@ traduzirCondicao  =  ( data )  =>  {
 }
 
 pegarPersonagem = .() => {
-    return fetch(`https://rickandmortyapi.com/api/character/2`, {
+    return fetch(`https://rickandmortyapi.com/api/character/3`, {
         method: 'GET',
         headers {
             Accept: 'aplication/json',
