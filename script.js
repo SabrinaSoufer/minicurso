@@ -18,5 +18,5 @@ pegarPersonagem = .() => {
         nomeDoPersonagem.innerHTML = data.name;
         especie.innerHTML = data.especie;
     });
-}Teste greg
+}
 botao.onclick = pegarPersonagem;
